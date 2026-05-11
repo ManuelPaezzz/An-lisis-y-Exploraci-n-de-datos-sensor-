@@ -1,5 +1,5 @@
 ## Descripción del Proyecto
-Este proyecto implementa un flujo de trabajo completo de Ciencia de Datos utilizando Python para analizar el comportamiento de las temperaturas máximas (TMAX) en la ciudad de Culiacán, Sinaloa. El sistema extrae datos en tiempo real desde los servidores del Servicio Meteorológico Nacional (SMN) y la Comisión Nacional del Agua (CONAGUA), transformando registros en bruto en información estadística visual y analítica.
+Este proyecto esta creado para analizar el comportamiento de las temperaturas máximas en la ciudad de Culiacán, Sinaloa. El sistema extrae datos en tiempo real desde los servidores del Servicio Meteorológico Nacional (SMN) y la Comisión Nacional del Agua (CONAGUA), transformando registros en bruto en información estadística visual y analítica.
 
 ## Objetivos
 * **Extracción Automatizada:** Uso de técnicas de scraping para obtener datos históricos sin intervención manual.
