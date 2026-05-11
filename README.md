@@ -8,10 +8,9 @@ Este proyecto esta creado para analizar el comportamiento de las temperaturas m�
 * **Visualización de Datos:** Generación de histogramas, diagramas de caja (boxplots) y gráficos de dispersión para identificar patrones y valores atípicos (*outliers*).
 
 ## Tecnologías Utilizadas
-* **Lenguaje:** Python 3.x
+* **Lenguaje:** Python
 * **Entorno:** Jupyter Notebook / VS Code
 * **Librerías Principales:**
     * `Pandas`: Manipulación y limpieza de estructuras de datos.
     * `Numpy`: Operaciones matemáticas y manejo de arreglos.
     * `Matplotlib`: Creación de visualizaciones estáticas.
-    * `Requests`: Peticiones HTTP para la descarga de datos.
